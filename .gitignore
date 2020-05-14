@@ -1,0 +1,8 @@
+.vs
+Debug/
+Neural-Network-Test.sln
+Neural-Network-Test/dataset/
+Neural-Network-Test/Debug/
+Neural-Network-Test/Neural-Network-Test.vcxproj
+Neural-Network-Test/Neural-Network-Test.vcxproj.user
+Neural-Network-Test/Neural-Network-Test.vcxproj.filters
